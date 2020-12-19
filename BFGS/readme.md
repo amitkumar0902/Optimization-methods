@@ -1,1 +1,1 @@
-## my implementation of Broyden–Fletcher–Goldfarb–Shanno optimization algorithm.
+# my implementation of Broyden–Fletcher–Goldfarb–Shanno optimization algorithm.
