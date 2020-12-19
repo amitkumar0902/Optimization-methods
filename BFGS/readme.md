@@ -1,1 +1,3 @@
-# my implementation of Broyden–Fletcher–Goldfarb–Shanno optimization algorithm.
+# BFGS
+
+my implementation of Broyden–Fletcher–Goldfarb–Shanno optimization algorithm.
